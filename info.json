@@ -1,0 +1,22 @@
+{
+	"language": {
+		"english": {
+			"to_twenty": ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"],
+			"tens": ["twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"],
+			"multipliers": ["hundred", "thousand"],
+			"delineator": [" ", " ", " ", " ", " ", " ", " ", " ", " ", " "]
+		},
+		"french": {
+      "to_twenty": ["zéro", "un", "deux", "trois", "quatre", "cinq", "six", "sept", "huit", "neuf", "dix", "onze", " douze "," treize "," quatorze "," quinze "," seize "," dix-sept "," dix-huit "," dix-neuf "],
+      "tens": ["vingt", "trente", "quarante", "cinquante", "soixant", "soixant-dix", "quatre-vingts"]
+		}
+	}
+}
+
+
+"seventeen", "eighteen", "nineteen",	"twenty", "twenty-one", "twenty-two", "twenty-three", "twenty-four", "twenty-five", "twenty-six", "twenty-seven", "twenty-eight", "twenty-nine", "thirty", "thirty-one", "thirty-two", "thirty-three", "thirty-four", "thirty-five", "thirty-six", "thirty-seven", "thirty-eight", "thirty-nine", "forty", "forty-one", "forty-two", "forty-three", "forty-four", "forty-five", "forty-six", "forty-seven", "forty-eight", "forty-nine", "fifty", "fifty-one", "fifty-two", "fifty-three", "fifty-five", "fifty-six", "fifty-seven", "fifty-eight", "fifty-nine"
+
+
+
+
+,  "," vingt et un "," vingt-deux "," vingt trois "," vingt-quatre "," vingt-cinq "," vingt-six ans "," vingt-sept "," vingt-huit "," vingt-neuf "," trente "," trente et un "," trente-deux "," trente-trois "," trente-quatre "," trente-cinq ans "," trente-six "," trente-sept "," trente-huit "," trente-neuf "," quarante " , "quarante et un", "quarante-deux", "quarante-trois", "quarante-quatre", "quarante-cinq", "quarante-six", "quarante-sept", "quarante-huit", " quarante-neuf "," cinquante "," cinquante et un "," cinquante-deux "," cinquante-trois "," cinquante-cinq ans "," cinquante-six "," cinquante-sept "," cinquante-huit " , "cinquante neuf"]
