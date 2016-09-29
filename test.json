@@ -1,0 +1,475 @@
+{
+    "title": "Pattern Lab",
+    "htmlClass": "pl",
+    "bodyClass": "body",
+    "video": {
+        "video1": {
+            "title": "Video Title1",
+            "description": "Video Description. This is a bit longer than the title and describes more about the video because people might find that information interesting.",
+            "href": "http://www.youtube.com",
+            "thumbnail": {
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            }
+        },
+        "video2": {
+            "title": "Video Title2",
+            "description": "Video Description. This is a bit longer than the title and describes more about the video because people might find that information interesting.",
+            "href": "http://www.youtube.com",
+            "thumbnail": {
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            }
+        },
+        "video3": {
+            "title": "Video Title3",
+            "description": "Video Description. This is a bit longer than the title and describes more about the video because people might find that information interesting.",
+            "href": "http://www.youtube.com",
+            "thumbnail": {
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            }
+        },
+        "video4": {
+            "title": "Video Title",
+            "description": "Video Description. This is a bit longer than the title and describes more about the video because people might find that information interesting.",
+            "href": "http://www.youtube.com",
+            "thumbnail": {
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            }
+        },
+        "video5": {
+            "title": "Video Title",
+            "description": "Video Description. This is a bit longer than the title and describes more about the video because people might find that information interesting.",
+            "href": "http://www.youtube.com",
+            "thumbnail": {
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            }
+        }
+    },
+    "stills": {
+        "image1": {
+            "title": "Picture Title",
+            "caption": "This is the caption for the picture",
+            "thumbnail": {
+                "full": {
+                    "path": "../../images/img_thumb.jpg",
+                    "width": "250w"
+                },
+                "small": {
+                    "path": "../../images/img_thumb@0,25x.jpg",
+                    "width": "63w"
+                },
+                "medium": {
+                    "path": "../../images/img_thumb@0,5x.jpg",
+                    "width": "125w"
+                },
+                "retina": {
+                    "path": "../../images/img_thumb@2x.jpg",
+                    "width": "500w"
+                },
+                "alt": "still thumbnail"
+            },
+            "full": {
+                "full": {
+                    "path": "../../images/img_theater.jpg",
+                    "width": "250w"
+                },
+                "small": {
+                    "path": "../../images/img_theater@0,25x.jpg",
+                    "width": "63w"
+                },
+                "medium": {
+                    "path": "../../images/img_theater@0,5x.jpg",
+                    "width": "125w"
+                },
+                "retina": {
+                    "path": "../../images/img_theater@2x.jpg",
+                    "width": "500w"
+                },
+                "alt": "still image"
+            }
+        },
+        "image2": {
+            "title": "Picture Title",
+            "caption": "This is the caption for the picture",
+            "thumbnail": {
+                "full": {
+                    "path": "../../images/img_thumb.jpg",
+                    "width": "250w"
+                },
+                "small": {
+                    "path": "../../images/img_thumb@0,25x.jpg",
+                    "width": "63w"
+                },
+                "medium": {
+                    "path": "../../images/img_thumb@0,5x.jpg",
+                    "width": "125w"
+                },
+                "retina": {
+                    "path": "../../images/img_thumb@2x.jpg",
+                    "width": "500w"
+                },
+                "alt": "still thumbnail"
+            },
+            "full": {
+                "full": {
+                    "path": "../../images/img_theater.jpg",
+                    "width": "250w"
+                },
+                "small": {
+                    "path": "../../images/img_theater@0,25x.jpg",
+                    "width": "63w"
+                },
+                "medium": {
+                    "path": "../../images/img_theater@0,5x.jpg",
+                    "width": "125w"
+                },
+                "retina": {
+                    "path": "../../images/img_theater@2x.jpg",
+                    "width": "500w"
+                },
+                "alt": "still image"
+            }
+        }
+    },
+    "img": {
+        "breakpoints": {
+            "small": "430px",
+            "medium": "600px",
+            "large": "800px"
+        },
+        "landscape_4x3": {
+            "src": "../../images/fpo_4x3.png",
+            "alt": "4x3 Image"
+        },
+        "landscape_16x9": {
+            "src": "../../images/fpo_16x9.png",
+            "alt": "16x9 Image"
+        },
+        "square": {
+            "src": "../../images/fpo_square.png",
+            "alt": "Square Thumbnail"
+        },
+        "avatar": {
+            "src": "../../images/fpo_avatar.png",
+            "alt": "Person Name"
+        },
+        "rectangle": {
+            "src": "http://placeimg.com/400/300/tech",
+            "alt": "Rectangle"
+        },
+        "still_images_thumbs": {
+            "still_thumb": {
+                "full": {
+                    "path": "../../images/img_thumb.jpg",
+                    "width": "250w"
+                },
+                "small": {
+                    "path": "../../images/img_thumb@0,25x.jpg",
+                    "width": "63w"
+                },
+                "medium": {
+                    "path": "../../images/img_thumb@0,5x.jpg",
+                    "width": "125w"
+                },
+                "retina": {
+                    "path": "../../images/img_thumb@2x.jpg",
+                    "width": "500w"
+                },
+                "alt": "still thumbnail"
+            }
+        },
+        "still_images": {
+            "still_full": {
+                "full": {
+                    "path": "../../images/img_theater.jpg",
+                    "width": "1000w"
+                },
+                "small": {
+                    "path": "../../images/img_theater@0,25x.jpg",
+                    "width": "250w"
+                },
+                "medium": {
+                    "path": "../../images/img_theater@0,5x.jpg",
+                    "width": "500w"
+                },
+                "retina": {
+                    "path": "../../images/img_theater@2x.jpg",
+                    "width": "2000w"
+                },
+                "alt": "full size still image"
+            }
+        },
+        "video_thumbs": {
+            "video_thumb": {
+                "title": "Video Title",
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            },
+            "video_thumb2": {
+                "title": "Video Title",
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            },
+            "video_thumb3": {
+                "title": "Video Title",
+                "full": {
+                    "path": "../../images/video_thumb.jpg",
+                    "width": "300w"
+                },
+                "small": {
+                    "path": "../../images/video_thumb@0,25x.jpg",
+                    "width": "75w"
+                },
+                "medium": {
+                    "path": "../../images/video_thumb@0,5x.jpg",
+                    "width": "150w"
+                },
+                "retina": {
+                    "path": "../../images/video_thumb@2x.jpg",
+                    "width": "600w"
+                },
+                "alt": "video thumbnail"
+            }
+        },
+        "background_images": {
+            "background_wide": {
+                "full": {
+                    "path": "../../images/img_background.jpg",
+                    "width": "250w"
+                },
+                "small": {
+                    "path": "../../images/img_background@0,25x.jpg",
+                    "width": "63w"
+                },
+                "medium": {
+                    "path": "../../images/img_background@0,5x.jpg",
+                    "width": "125w"
+                },
+                "retina": {
+                    "path": "../../images/img_background@2x.jpg",
+                    "width": "500w"
+                },
+                "alt": ""
+            }
+        }
+    },
+    "menu_main": {
+        "item1": {
+            "title": "Rob Lahoda",
+            "href": "#",
+            "class": "primary-nav__logo-li",
+            "opentag": "h1",
+            "closetag": "/h1"
+        },
+        "item2": {
+            "title": "Home",
+            "href": "#",
+            "class": "primary-nav__nav-text"
+        },
+        "item3": {
+            "title": "About Me",
+            "href": "#",
+            "class": "primary-nav__nav-text"
+        },
+        "item4": {
+            "title": "Photography",
+            "href": "#",
+            "class": "primary-nav__nav-text"
+        },
+        "item5": {
+            "title": "Video",
+            "href": "#",
+            "class": "primary-nav__nav-text"
+        }
+    },
+    "menu_footer": {
+        "item1": {
+            "title": "Home",
+            "href": "#",
+            "class": ""
+        },
+        "item2": {
+            "title": "About Me",
+            "href": "#",
+            "class": ""
+        },
+        "item3": {
+            "title": "Photography",
+            "href": "#",
+            "class": "icon-facebook"
+        },
+        "item4": {
+            "title": "Video",
+            "href": "#",
+            "class": ""
+        }
+    },
+    "headline": {
+        "short": "Lorem ipsum dolor sit (37 characters)",
+        "medium": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. (72 characters)"
+    },
+    "excerpt": {
+        "short": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "medium": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "long": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    "description": "So, setting about it as methodically as men might smoke out a wasps' nest, the Martians spread this strange stifling vapour over the Londonward country. The horns of the crescent slowly moved apart, until at last they formed a line from Hanwell to Coombe and Malden. All night through their destructive tubes advanced.",
+    "url": "#",
+    "name": {
+        "first": "Lacy",
+        "firsti": "L",
+        "middle": "Tommie",
+        "middlei": "T",
+        "last": "Way",
+        "lasti": "W"
+    },
+    "year": {
+        "long": "2013",
+        "short": "13"
+    },
+    "month": {
+        "long": "February",
+        "short": "Feb",
+        "digit": "02"
+    },
+    "dayofweek": {
+        "long": "Monday",
+        "short": "Mon"
+    },
+    "day": {
+        "long": "10",
+        "short": "10",
+        "ordinal": "th"
+    },
+    "hour": {
+        "long": "01",
+        "short": "1",
+        "military": "13",
+        "ampm": "pm"
+    },
+    "minute": {
+        "long": "20",
+        "short": "20"
+    },
+    "seconds": "31",
+    "author": {
+        "first_name": "Author",
+        "last_name": "Name"
+    },
+    "hero": true,
+    "emergency": false,
+    "touts": [{}, {}, {}],
+    "latest_posts": [{}, {}, {}, {}, {}],
+    "bio": {
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+}
